@@ -1,5 +1,7 @@
 # 🚗 EV Energy Consumption Prediction
 
+## 🔗 Live Demo: https://huggingface.co/spaces/ShivaThamme/ev-energy-consumption-prediction
+
 ## 📌 Project Overview
 
 This project predicts the **energy consumption of electric vehicles (EVs)** using Machine Learning techniques.
